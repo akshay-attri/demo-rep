@@ -4,3 +4,5 @@ class applify{
     this.designation=designation
 }
 }
+
+employee= new applify("akshay","sde-backend")
